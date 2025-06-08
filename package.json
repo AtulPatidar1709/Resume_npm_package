@@ -1,0 +1,22 @@
+{
+  "name": "atulpatidar1709",
+  "version": "1.0.1",
+  "description": "My resume as an npm package",
+  "main": "index.js",
+  "bin": {
+    "atulpatidar1709": "index.js"
+  },
+  "author": "Atul Patidar",
+  "license": "MIT",
+  "keywords": [
+    "resume",
+    "npm",
+    "portfolio"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "atulpatidar1709": "^1.0.1"
+  }
+}
